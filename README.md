@@ -1,4 +1,4 @@
-# FetchRewards Coding Exercise - Software Engineering - Mobile
+# FetchRewards Coding Exercise
 
 ## Description
 
@@ -47,4 +47,4 @@ Unit and UI tests are a critical part of ensuring the app works as expected. The
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jonhazut9/fetch-rewards.git
+   git clone https://github.com/Z-Zhou255/FetchRewards.git
